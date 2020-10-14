@@ -16,3 +16,7 @@
 .header .title-group {
   padding-left: 25px;
 }
+
+.header .title-group .material-icons {
+  padding-right: 10px;
+}

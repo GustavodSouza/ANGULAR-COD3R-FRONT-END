@@ -1,0 +1,19 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin-right: 15px;
+  margin-top: 20px;
+}
+
+.alerta {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #f00;
+  font-weight: 400;
+}

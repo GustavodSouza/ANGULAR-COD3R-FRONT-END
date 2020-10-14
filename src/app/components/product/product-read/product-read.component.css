@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+}
+
+em.edit {
+  color: #0f0;
+}
+
+em.delete {
+  color: #f00;
+}
+
+a {
+  cursor: pointer;
+}
